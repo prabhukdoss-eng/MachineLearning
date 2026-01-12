@@ -1,0 +1,12 @@
+LINEAR REGRESSION MODEL - SALARY PREDICTION
+============================================================
+
+Regression Equation: Salary = 26777.39 + 9360.26 × YearsExperience
+
+Model Coefficient: 9360.26
+Model Intercept: 26777.39
+
+Training R² Score: 0.9424
+Testing R² Score: 0.9741
+Mean Absolute Error: $3,737.42
+RMSE: $4,834.26
